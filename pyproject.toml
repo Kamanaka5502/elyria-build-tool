@@ -1,14 +1,19 @@
 [project]
 name = "elyria-build-tool"
-version = "1.1.0"
+version = "1.1.1"
 description = "Customer-facing governance intake and build blueprint generator."
 requires-python = ">=3.10"
 readme = "README.md"
-license = {text = "Proprietary"}
+license = "Proprietary"
 authors = [{name = "Elyria Systems"}]
 
 [project.scripts]
 elyria-build-tool = "elyria_build_tool.__main__:main"
 
+[tool.setuptools.packages.find]
+include = ["elyria_build_tool*"]
+exclude = ["docs*", "examples*", "sales_docs*", "tests*", "sample_scope*"]
+
 [tool.pytest.ini_options]
 testpaths = ["tests"]
+pythonpath = ["."]
