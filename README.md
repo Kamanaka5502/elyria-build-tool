@@ -11,6 +11,43 @@
 
 > **Scope it. Layer it. Prove it before it moves.**
 
+<p align="center">
+  <a href="https://YOUR-PAYMENT-LINK-HERE">
+    <img src="https://img.shields.io/badge/Buy%20Now-%24100-7c3aed?style=for-the-badge" alt="Buy Now - $100">
+  </a>
+  <a href="https://YOUR-PAYMENT-LINK-HERE">
+    <img src="https://img.shields.io/badge/Get%20the%20Buyer%20Package-Elyria%20Build%20Tool-00d4ff?style=for-the-badge" alt="Get the Buyer Package">
+  </a>
+</p>
+
+> **Purchase link:** Replace `https://YOUR-PAYMENT-LINK-HERE` with your Lemon Squeezy, Gumroad, Stripe Payment Link, Payhip, or Ko-fi checkout URL.
+
+---
+
+## 💠 Buy the $100 buyer package
+
+Elyria Build Tool is sold as a **$100 premium governance intake package** for buyers who need to turn a vague governance concern into a structured, build-ready blueprint.
+
+The buyer receives the repo, CLI tool, sample outputs, buyer-facing documentation, and a repeatable blueprint-generation flow.
+
+**Best for:** founders, AI builders, workflow owners, automation teams, consultants, compliance-adjacent teams, and technical buyers who need to define what must be governed before movement binds consequence.
+
+**Included for $100:**
+
+- Elyria Build Tool repo
+- governance intake question flow
+- demo blueprint generator
+- validation command
+- inspection command
+- sample buyer outputs
+- protected-scope language
+- sales-facing documentation
+- pilot-readiness structure
+
+**Not included:** custom implementation, runtime engineering, production validators, proof corridor deployment, receipt infrastructure, replay infrastructure, integrations, legal advice, compliance certification, or production deployment.
+
+---
+
 Elyria Build Tool is a customer-facing governance intake and blueprint generator for teams building AI agents, workflows, payment approvals, access controls, recommendations, automations, or other consequence-bearing system behavior.
 
 It helps a buyer answer one operational question:
