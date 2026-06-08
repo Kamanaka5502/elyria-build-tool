@@ -22,8 +22,8 @@
 
 **Buyer delivery contacts:**
 
-- Samantha Revita-Wagner: samanthagreenwellrevita@gmail.com
-- Canary / technical delivery contact: canarybird0618@gmail.com
+- Samantha Revita: samanthagreenwellrevita@gmail.com
+- Terry Snyder: canarybird0618@gmail.com
 
 ---
 
@@ -307,8 +307,8 @@ After payment, include your email address and GitHub username in the PayPal note
 
 For delivery or buyer-access questions, contact:
 
-- Samantha Revita-Wagner: samanthagreenwellrevita@gmail.com
-- Canary / technical delivery contact: canarybird0618@gmail.com
+- Samantha Revita: samanthagreenwellrevita@gmail.com
+- Terry Snyder: canarybird0618@gmail.com
 
 ### Access Boundary
 
