@@ -20,7 +20,6 @@
   </a>
 </p>
 
-> **Purchase link:** Replace `https://paypal.me/Samantharevita5/100` with your Lemon Squeezy, Gumroad, Stripe Payment Link, Payhip, or Ko-fi checkout URL.
 
 ---
 
