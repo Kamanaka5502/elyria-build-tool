@@ -307,8 +307,6 @@ After payment, include your email address and GitHub username in the PayPal note
 
 For delivery or buyer-access questions, contact:
 
-- Samantha Revita: samanthagreenwellrevita@gmail.com
-- Terry Snyder: canarybird0618@gmail.com
 
 ### Access Boundary
 
