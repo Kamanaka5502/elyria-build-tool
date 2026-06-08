@@ -1,10 +1,10 @@
 [project]
 name = "elyria-build-tool"
-version = "1.1.1"
+version = "1.1.2"
 description = "Customer-facing governance intake and build blueprint generator."
 requires-python = ">=3.10"
 readme = "README.md"
-license = "Proprietary"
+license = {file = "LICENSE"}
 authors = [{name = "Elyria Systems"}]
 
 [project.scripts]
