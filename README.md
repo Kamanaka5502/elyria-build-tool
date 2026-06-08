@@ -12,15 +12,15 @@
 > **Scope it. Layer it. Prove it before it moves.**
 
 <p align="center">
-  <a href="https://YOUR-PAYMENT-LINK-HERE">
+  <a href="https://paypal.me/Samantharevita5/100">
     <img src="https://img.shields.io/badge/Buy%20Now-%24100-7c3aed?style=for-the-badge" alt="Buy Now - $100">
   </a>
-  <a href="https://YOUR-PAYMENT-LINK-HERE">
+  <a href="https://paypal.me/Samantharevita5/100">
     <img src="https://img.shields.io/badge/Get%20the%20Buyer%20Package-Elyria%20Build%20Tool-00d4ff?style=for-the-badge" alt="Get the Buyer Package">
   </a>
 </p>
 
-> **Purchase link:** Replace `https://YOUR-PAYMENT-LINK-HERE` with your Lemon Squeezy, Gumroad, Stripe Payment Link, Payhip, or Ko-fi checkout URL.
+> **Purchase link:** Replace `https://paypal.me/Samantharevita5/100` with your Lemon Squeezy, Gumroad, Stripe Payment Link, Payhip, or Ko-fi checkout URL.
 
 ---
 
@@ -293,3 +293,19 @@ This package is designed to support:
 > **The tool converts it into a build-ready governance blueprint.**  
 > **Elyria Systems builds the protected runtime layer separately.**  
 > **No proof surface, no category claim.**
+
+## Buy the Elyria Build Tool — $100
+
+The Elyria Build Tool buyer package is available for **$100**.
+
+[Buy Now — $100 via PayPal](https://paypal.me/Samantharevita5/100)
+
+After payment, include your email address and GitHub username in the PayPal note so delivery/access can be issued.
+
+### Access Boundary
+
+Purchase gives access to the intake and blueprint package.
+
+It does **not** include custom Elyria Systems implementation, production runtime deployment, proof corridor engineering, integrations, compliance certification, legal advice, or ongoing support unless separately agreed.
+
+Pull requests are not required for purchase or customer access. Pull requests are only for proposed code or documentation contributions.
