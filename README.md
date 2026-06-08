@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/elyria-build-tool-banner.jpg" alt="Elyria Build Tool banner" width="100%">
+</p>
+
 # 🌈 Elyria Build Tool
 ## Premium Governance Intake → Build-Ready Execution Blueprint
 
