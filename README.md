@@ -1,215 +1,250 @@
-# ✦ Elyria Build Tool ✦
+# 🌈 Elyria Build Tool
+## Premium Governance Intake → Build-Ready Execution Blueprint
 
-## Scope it. Layer it. Prove it before it moves.
+> **Scope it. Layer it. Prove it before it moves.**
 
-**Elyria Build Tool** is a premium buyer-facing governance intake and blueprint generator for teams, builders, founders, operators, and AI system owners who need to define what must be governed before consequence binds.
+Elyria Build Tool is a customer-facing governance intake and blueprint generator for teams building AI agents, workflows, payment approvals, access controls, recommendations, automations, or other consequence-bearing system behavior.
 
-It turns a vague governance problem into a structured, build-ready blueprint.
+It helps a buyer answer one operational question:
 
-Not a policy memo.  
-Not a loose checklist.  
-Not another compliance worksheet.
+> **What movement should be governed before it becomes real?**
 
-This is a structured governance scoping layer for systems where movement matters.
-
----
-
-## ✦ What this product does
-
-Elyria Build Tool helps a buyer define the exact action, decision, workflow, AI-agent behavior, payment event, access event, recommendation, or system movement that needs governance.
-
-It then produces a build-ready governance package that clarifies:
-
-- what is being governed
-- what consequence can bind
-- what authority is required
-- what evidence must exist first
-- when movement should be admitted, held, or refused
-- what failure modes matter
-- what receipt must be generated
-- what must be replayable later
-- where buyer-facing scope ends
-- where Elyria Systems implementation begins
-
-The output becomes the handoff package for runtime design, proof corridor buildout, validation logic, and governed execution implementation.
+The tool turns plain-language governance concerns into a structured blueprint covering the governed object, consequence boundary, authority requirements, evidence requirements, admit / hold / refuse matrix, failure modes, receipt requirements, replay requirements, pilot corridor plan, protected scope, commercial access boundary, and validation report.
 
 ---
 
-## ✦ The premium buyer offer
+## ✨ Buyer package
 
-**Price:** $100 per buyer package
+**Price:** $100
 
-The buyer receives a governance blueprint generator that can produce a structured intake artifact for one scoped governance use case.
+The $100 buyer package includes the Elyria Build Tool repo and buyer-facing blueprint generation flow. It is designed to help customers scope what they need governed and prepare a clean handoff package for Elyria Systems review or future implementation.
 
-Best fit for:
-
-- AI founders
-- workflow automation builders
-- compliance-adjacent operators
-- payment or approval system owners
-- access-control designers
-- agentic AI teams
-- internal tools teams
-- consultants scoping governance problems
-- anyone trying to prove what should happen before a system action binds consequence
+This package is not custom runtime engineering. It does not include validators, enforcement code, proof corridor deployment, receipt infrastructure, replay infrastructure, integrations, legal advice, compliance certification, or production deployment.
 
 ---
 
-## ✦ What it governs
+## 🚀 What this tool is for
 
-Use Elyria Build Tool for systems involving:
+Most organizations know that something inside their AI, automation, workflow, infrastructure, finance, healthcare, legal, procurement, or operational system needs governance.
 
-- AI agent approvals
-- refund or payment approvals
-- access grants or permission changes
-- automated recommendations
-- workflow transitions
-- human-in-the-loop decisions
-- policy-bound operations
-- model output escalation
-- audit-sensitive system actions
-- consequence-bearing automation
+They usually cannot describe it in execution-boundary language.
 
-The core question is simple:
+They may say:
 
-> Can invalid movement become real?
+- “This workflow should not run unless approval is current.”
+- “This agent should not touch customer records without proof.”
+- “This payment should not bind without authority.”
+- “This system should stop if standing changes.”
+- “This recommendation should not become action without evidence.”
+- “This decision needs a receipt before it becomes operational.”
+- “This movement must be replayable later.”
 
-If the answer matters, the movement needs a governance blueprint.
+That is enough.
+
+Elyria Build Tool converts that input into a build-ready governance structure.
 
 ---
 
-## ✦ Core outputs
+## 🧭 The simple model
 
-Each generated blueprint can include:
+### Customer side
 
-- build blueprint
-- governed object
-- consequence description
-- authority requirements
-- evidence requirements
+The customer defines what must be governed.
+
+### Tool side
+
+The tool asks structured questions about:
+
+- the action trying to become real
+- the consequence that could bind
+- who or what has authority
+- what evidence must exist
+- what conditions must stay true
+- what should cause admission, hold, refusal, halt, quarantine, revoke, or escalation
+- what receipt must be created
+- what replay must prove
+- what pilot success looks like
+
+### Elyria side
+
+Elyria Systems can use the generated blueprint to evaluate or build:
+
+- governed object definition
+- protected execution boundary
+- standing / admissibility rule
 - admit / hold / refuse matrix
-- failure modes
-- receipt requirements
-- replay requirements
+- proof-surface checklist
 - pilot corridor plan
-- protected scope
-- commercial access boundary
-- validation report
+- receipt and replay requirements
+- commercial implementation path
 
 ---
 
-## ✦ Why this is different
+## 🧩 Core outputs
 
-Most tools start after execution:
-
-- logs
-- audit trails
-- dashboards
-- approval records
-- policy documents
-- post-event review
-
-Elyria Build Tool starts before movement binds.
-
-It scopes the proof surface early, so the buyer can see what must be true before an action, decision, agent, payment, recommendation, or access event is allowed to become real.
-
-That makes the output useful for:
-
-- pre-build governance scoping
-- AI system intake
-- buyer discovery
-- technical handoff
-- compliance preparation
-- implementation planning
-- runtime enforcement design
-- proof corridor planning
+| Output | Purpose |
+|---|---|
+| Build blueprint | Structured handoff package for implementation review |
+| Governed object | The action, decision, workflow, AI behavior, payment, access event, recommendation, or system movement being governed |
+| Consequence description | What could bind if invalid movement proceeds |
+| Authority requirements | Who or what may admit, hold, or refuse movement |
+| Evidence requirements | What must exist before movement can bind |
+| Admit / hold / refuse matrix | Boundary behavior for valid, incomplete, and invalid conditions |
+| Failure modes | Where governance can collapse or become inadmissible |
+| Receipt requirements | What must be recorded when movement is evaluated |
+| Replay requirements | What must be reproducible later |
+| Pilot corridor plan | Narrow test path for first proof of governed movement |
+| Protected scope | Boundary between buyer-facing intake and Elyria runtime implementation |
+| Commercial access boundary | What the $100 package includes and excludes |
+| Validation report | Readiness status for blueprint review |
 
 ---
 
-## ✦ Example use case
-
-A buyer wants to govern an AI agent that approves customer refunds above $500.
-
-Elyria Build Tool helps define:
-
-- the governed object: refund approval movement
-- the consequence: money leaves the business incorrectly
-- the authority: manager approval, policy match, account standing
-- the evidence: refund reason, order history, fraud flags, customer record
-- the admit condition: all required evidence and authority are present
-- the hold condition: missing evidence or unclear authority
-- the refuse condition: failed policy, fraud risk, or invalid request
-- the receipt: proof of why movement was admitted, held, or refused
-- the replay requirement: later verification of the decision path
-
-That is the blueprint layer before runtime implementation.
-
----
-
-## ✦ Install for local use
+## 🛠️ Install
 
 ```bash
 python -m venv .venv
 source .venv/bin/activate
-pip install -e .
-```
-
-Windows PowerShell:
-
-```powershell
-python -m venv .venv
-.\.venv\Scripts\Activate.ps1
-pip install -e .
+pip install -e . pytest
 ```
 
 ---
 
-## ✦ Commands
+## ⚡ Fast commands
+
+Show intake questions:
 
 ```bash
 elyria-build-tool questions
+```
+
+Build a demo blueprint:
+
+```bash
 elyria-build-tool build --demo --out sample_scope
+```
+
+Validate a blueprint:
+
+```bash
 elyria-build-tool validate sample_scope/elyria_build_blueprint.json
+```
+
+Inspect a blueprint:
+
+```bash
 elyria-build-tool inspect sample_scope/elyria_build_blueprint.json
+```
+
+Run tests:
+
+```bash
 pytest -q
 ```
 
-Module form:
+Module form also works:
 
 ```bash
 python -m elyria_build_tool questions
-python -m elyria_build_tool build --demo --out sample_scope
-python -m elyria_build_tool validate sample_scope/elyria_build_blueprint.json
-python -m elyria_build_tool inspect sample_scope/elyria_build_blueprint.json
-python -m pytest -q
 ```
 
 ---
 
-## ✦ Buyer deliverable boundary
+## 🧪 Day 1 pilot posture
 
-The $100 package provides the intake/build tool and buyer-facing governance blueprint output.
+Day 1 is not a vague discovery call.
 
-It does **not** include custom runtime engineering, validators, enforcement logic, proof corridor deployment, receipt infrastructure, replay infrastructure, integrations, legal review, compliance certification, or custom implementation by Elyria Systems.
+A serious pilot begins with:
 
-Those remain separate Elyria Systems delivery assets and require a separate engagement.
+- one governed object
+- one consequence boundary
+- one authority requirement
+- one evidence requirement
+- one admit case
+- one hold case
+- one refuse case
+- one changed-condition case
+- one receipt requirement
+- one replay requirement
+- one no-effect expectation when movement is refused
+
+The pilot begins when the customer can point to a movement and say:
+
+> **This is the thing we do not want becoming real unless standing resolves first.**
 
 ---
 
-## ✦ Commercial boundary
+## 🔐 Protected scope
 
-Elyria Build Tool is a scoping and blueprint product.
+This tool is buyer-facing and public-safe.
 
-It defines the governance surface.  
-It does not automatically enforce the runtime.
+It does not disclose protected Elyria Systems substrate, live runtime internals, private validators, production enforcement code, deployment machinery, or customer-specific implementation material.
 
-Runtime implementation, validators, enforcement logic, proof corridor design, receipts, replay infrastructure, pilot corridor execution, and production deployment remain Elyria Systems delivery assets unless contracted separately.
+The rule is:
+
+> **Show the governance surface. Do not disclose the protected machinery.**
+
+Customers define the movement.
+Elyria Systems performs protected runtime implementation separately.
 
 ---
 
-## ✦ Product line
+## 🌊 Why this matters
 
-**Elyria Build Tool**  
-**Scope it. Layer it. Prove it before it moves.**
+This is not another dashboard.
+This is not another checklist.
+This is not another policy document.
 
-Built by Elyria Systems.
+The category is stricter:
+
+> **Before a system movement becomes consequence, it must prove standing.**
+
+If standing resolves, movement may be admitted.
+
+If standing does not resolve, movement must hold, narrow, escalate, refuse, halt, quarantine, revoke, rebound, or leave no protected effect.
+
+That is the difference between documenting governance and building a consequence boundary.
+
+---
+
+## 📦 Commercial path
+
+```text
+Customer governance concern
+        ↓
+Elyria Build Tool intake
+        ↓
+Generated governance blueprint
+        ↓
+Elyria Systems review
+        ↓
+Pilot corridor design
+        ↓
+Runtime / proof implementation
+        ↓
+Production licensing path
+```
+
+---
+
+## ✅ Benchmark posture
+
+This package is designed to support:
+
+- customer-friendly intake
+- build-ready handoff
+- protected-scope boundary
+- public-safe proof surface
+- pilot corridor preparation
+- receipt / replay requirement
+- refusal / halt / no-effect expectation
+- commercial implementation path
+
+---
+
+## 🧾 Core line
+
+> **The customer tells us what must be governed.**  
+> **The tool converts it into a build-ready governance blueprint.**  
+> **Elyria Systems builds the protected runtime layer separately.**  
+> **No proof surface, no category claim.**
