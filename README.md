@@ -20,6 +20,10 @@
   </a>
 </p>
 
+**Buyer delivery contacts:**
+
+- Samantha Revita-Wagner: samanthagreenwellrevita@gmail.com
+- Canary / technical delivery contact: canarybird0618@gmail.com
 
 ---
 
@@ -300,6 +304,11 @@ The Elyria Build Tool buyer package is available for **$100**.
 [Buy Now — $100 via PayPal](https://paypal.me/Samantharevita5/100)
 
 After payment, include your email address and GitHub username in the PayPal note so delivery/access can be issued.
+
+For delivery or buyer-access questions, contact:
+
+- Samantha Revita-Wagner: samanthagreenwellrevita@gmail.com
+- Canary / technical delivery contact: canarybird0618@gmail.com
 
 ### Access Boundary
 
