@@ -1,0 +1,5 @@
+{
+  "example": "AI refund approval governance",
+  "use_case": "Prevent unauthorized customer refund approvals above threshold.",
+  "buyer_value": "Converts vague AI approval risk into governed movement with authority, evidence, receipt, and replay requirements."
+}
