@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="assets/elyria-build-tool-repo-announcement.png" alt="Elyria Build Tool repo announcement" width="100%">
-</p>
-
-<p align="center">
   <img src="assets/elyria-build-tool-banner.jpg" alt="Elyria Build Tool buyer banner" width="100%">
 </p>
 
