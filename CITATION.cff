@@ -1,7 +1,7 @@
 cff-version: 1.2.0
 message: "If you use Elyria Build Tool, cite this software release."
 title: "Elyria Build Tool"
-version: "1.0.0"
+version: "1.1.2"
 type: software
 authors:
   - family-names: "Revita"
