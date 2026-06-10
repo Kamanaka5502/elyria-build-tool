@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use Elyria Build Tool, cite this software release."
+title: "Elyria Build Tool"
+version: "1.0.0"
+type: software
+authors:
+  - family-names: "Revita"
+    given-names: "Samantha"
+    orcid: "https://orcid.org/0009-0004-4439-3261"
+repository-code: "https://github.com/Kamanaka5502/elyria-build-tool"
+url: "https://github.com/Kamanaka5502/elyria-build-tool"
+abstract: "Buyer-facing governance intake and blueprint generator for consequence-bearing automation. The tool helps teams define governed objects, consequence surfaces, authority requirements, evidence requirements, admit/hold/refuse logic, receipt requirements, replay requirements, pilot corridor planning, protected scope, and commercial access boundaries."
+keywords:
+  - AI governance
+  - operational governance
+  - consequence-bearing automation
+  - proof corridor
+  - admission control
+  - receipt and replay
+  - Elyria Systems
+license: proprietary
