@@ -1,0 +1,34 @@
+{
+  "title": "Elyria Build Tool",
+  "upload_type": "software",
+  "description": "Elyria Build Tool is a buyer-facing governance intake and blueprint generator for consequence-bearing automation. It helps teams define governed objects, consequence surfaces, authority requirements, evidence requirements, admit/hold/refuse logic, receipt requirements, replay requirements, pilot corridor planning, protected scope, and commercial access boundaries before controlled implementation begins.",
+  "creators": [
+    {
+      "name": "Revita, Samantha",
+      "orcid": "0009-0004-4439-3261"
+    }
+  ],
+  "keywords": [
+    "AI governance",
+    "operational governance",
+    "consequence-bearing automation",
+    "proof corridor",
+    "admission control",
+    "receipt and replay",
+    "Elyria Systems"
+  ],
+  "access_right": "open",
+  "license": "other-closed",
+  "related_identifiers": [
+    {
+      "identifier": "https://doi.org/10.5281/zenodo.20618521",
+      "relation": "isSupplementTo",
+      "resource_type": "publication-technicalnote"
+    },
+    {
+      "identifier": "https://github.com/Kamanaka5502/Samantha-Revita-Elyria-Systems",
+      "relation": "isPartOf",
+      "resource_type": "software"
+    }
+  ]
+}
