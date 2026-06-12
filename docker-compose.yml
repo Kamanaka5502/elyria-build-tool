@@ -1,0 +1,7 @@
+services:
+  elyria-build-tool:
+    build: .
+    container_name: elyria-build-tool
+    volumes:
+      - ./output:/app/output
+    command: ["questions"]
