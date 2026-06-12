@@ -159,7 +159,11 @@ pip install -e . pytest
 
 ---
 
-## ⚡ **Fast Commands**
+## 🔵 **Fast Commands**
+
+![Fast Commands](https://img.shields.io/badge/FAST%20COMMANDS-CLI%20READY-00d4ff?style=for-the-badge)
+![Blueprint](https://img.shields.io/badge/BLUEPRINT-GENERATOR-0077ff?style=for-the-badge)
+![Validate](https://img.shields.io/badge/VALIDATE-READY-0055ff?style=for-the-badge)
 
 **Show intake questions:**
 
