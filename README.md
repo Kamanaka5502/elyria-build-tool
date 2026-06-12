@@ -2,10 +2,6 @@
   <img src="assets/elyria-build-tool-repo-announcement.png" alt="Elyria Build Tool repo announcement" width="100%">
 </p>
 
-<p align="center">
-  <img src="assets/elyria-build-tool-banner.jpg" alt="Elyria Build Tool buyer banner" width="100%">
-</p>
-
 # 🌈 **Elyria Build Tool**
 ## **Premium Governance Intake → Build-Ready Execution Blueprint**
 
@@ -324,3 +320,9 @@ Purchase gives access to the **intake and blueprint package**.
 It does **not** include **custom Elyria Systems implementation**, **production runtime deployment**, **proof corridor engineering**, **integrations**, **compliance certification**, **legal advice**, or **ongoing support** unless separately agreed.
 
 **Pull requests are not required for purchase or customer access. Pull requests are only for proposed code or documentation contributions.**
+
+---
+
+<p align="center">
+  <img src="assets/elyria-build-tool-banner.jpg" alt="Elyria Build Tool buyer banner" width="100%">
+</p>
